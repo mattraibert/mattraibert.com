@@ -1,0 +1,109 @@
+<head>
+  <style>
+    * {
+      font-family: "Lucida Grande", Helvetica, Arial, Sans-serif;
+    }
+
+    ul {
+      list-style: none;
+    }
+
+    ul li{
+      float: left;
+      margin: 10px;
+    }
+
+    #twitter {
+      clear: both;
+    }
+
+    #main {
+      margin: auto;
+      width: 900px;
+      border: thick gray solid;
+      margin-top: 20px;
+    }
+
+    #disqus {
+      margin: auto;
+      width: 800px;
+      margin-top: 20px;
+    }
+</style>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-7602095-3']);
+    _gaq.push(['_setDomainName', 'mattraibert.com']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_trackPageview']);
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+</head>
+<body>
+<div id="main">
+<ul>
+  <h2>welcome to</h2>
+  <h1>Matt Raibert dot com and Matt Raibert dot ath dot cx</h1>
+  <li>
+    <a href="resume">View My Resume</a>
+  </li>
+  <li>
+    <a href="http://mattraibert.tumblr.com">On Tumblr</a>
+  </li>
+  <li>
+    <a href="http://twitter.com/mattraibert">On twitter</a>
+  </li>
+  <li>
+    <a href="http://flickr.com/mattraibert">On flickr</a>
+  </li>
+</ul>
+<div id="twitter">
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 4,
+  interval: 6000,
+  width: 250,
+  height: 300,
+  theme: {
+    shell: {
+      background: '#ffffff',
+      color: '#000000'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#000000',
+      links: '#169c16'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: true,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('mattraibert').start();
+</script>
+</div>
+</div><!--/ #main -->
+<div id="disqus">
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+  var disqus_shortname = 'mattraibertdotcom';
+  (function() {
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+</div>
+</body>
