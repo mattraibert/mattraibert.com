@@ -86,20 +86,35 @@ Graduated Spring 2007
 
 Technical
 
-    Ruby on Rails
-    Rspec
-    Mocha
-    Test Unit
-    Java
-    Spring and Spring MVC
-    JUnit with Mockito
-    Groovy
-    C/C++
-    CSS/HTML
-    jQuery
-    Mockito
-    SQL
-    Subversion/Git
-    Linux/Windows/Mac
+    ruby
+    haskell
+    javascript
+    java
+    c++
+    html
+    css
+    rspec
+    minitest
+    mocha
+    jasmine
+    junit
+    mockito
+    mysql
+    sql server
+    postgres
+    rails
+    sinatra
+    snap
+    jquery
+    d3
+    spring/spring mvc
+    hibernate
+    git
+    svn
+    cvs
+    linux
+    bsd
+    windows
+    macosx
 
 Matt J Raibert — mattraibert@gmail.com — (917) - 328-0228
