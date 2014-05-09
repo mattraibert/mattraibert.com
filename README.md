@@ -1,18 +1,17 @@
 #Matt J Raibert
-##Software Developer
+###Software Developer
 mattraibert@gmail.com
-(917) - 328-0228
+(917) 328-0228
 
-Software: Design, test and develop high-quality software that is maintainable and serves real business needs.
-
-Business: Work with users or subject matter experts to understand their business problems and develop the software they need.
-
-Team: Recognize opportunities for team growth. Help a team remove obstacles, solve problems and work better.
+| Software | Business | Team |
+|----|----|----|
+| Design, test and develop high-quality software that is maintainable and serves real business needs. | Work with users or subject matter experts to understand their business problems and develop the software they need. | Recognize opportunities for team growth. Help a team remove obstacles, solve problems and work better. |
 
 Experience
 ----------
 
 Cyrus Innovation
+
 Senior Agile Developer and Developer Coach
 March 2007-Present
 
