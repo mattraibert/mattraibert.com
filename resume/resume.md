@@ -16,105 +16,143 @@ Cyrus Innovation
 Senior Agile Developer and Developer Coach
 March 2007-Present
 
-At Cyrus I've developed software using a range of practices,
-technologies and design techniques. I've coached new team members at
-all experience levels helping them get up to speed extremely quickly.
-I regularly facilitate retrospective meetings using a range of
-analytic techniques to remove obstacles and solve problems.
+At Cyrus I have written software for clients using Extreme
+Programming practices and a range of technologies. I've coached
+new team members at all experience levels helping them get up to
+speed extremely quickly. I regularly facilitate retrospective
+meetings using a toolkit of analytic techniques to remove
+obstacles and solve problems.
 
-One the New York Times Infrastructure team I am developing an intranet
-web app that provides an intuitive 'Application' abstraction for
-organizing raw cloud computing resources. It manages cloud resources
-from AWS as well as from internal VMWare clusters. The app uses rails,
-mysql, sidekiq and fog.io with tests written in rspec.
+New York Times Infrastructure
+Senior Developer and Coach with Cyrus
+May 2013-present
 
-On the Bazaarvoice team I worked on a business to business sales
-portal that helped brand representatives purchase and configure BV
-products. The app is a Java based web app using spring mvc, gwt and
-dropwizard with tests written in selenium, junit and mockito.
+Developed a web app that provides an intuitive abstraction for
+managing raw cloud computing resources. Users can manage resources
+from AWS as well as from internal VMWare clusters. The app uses
+rails, mysql, sidekiq and fog.io with tests written in rspec and
+mocha.
 
-On the Telvue team I led a team of developers working on a rails app.
-The app provides a way for public access channels to collect, schedule
-and distribute content submissions through a simple web interface.
-Content creators could log in and upload their videos for channel
-admins to approve and schedule. Behind the scenes the app would
-validate and transcode the content into an appropriate format and then
-stream it directly to the local cable tv providers.
+Bazaarvoice
+Senior Developer with Cyrus
+Oct 2012-May 2013
 
-On the Boston Capital team I worked on an asset management web app.
-This is a large application responsible for complicated data entry
-with validation, document management, performance metric reporting,
-and tax calculations. It is developed in java and groovy using
-webwork, picocontainer, hibernate and sql server with tests written in
-selenium, junit, jbehave, mockito and spock. I collaborated on
-building this on-site XP development team from the ground up.
+Developed software for a business to business sales portal where brand
+representatives purchase and configure BV products. The app is a
+java based web app using spring mvc, gwt and dropwizard with tests
+written in selenium, junit and mockito.
 
-On the Kaplan team I (1) Developed software using Java,
-Spring/MVC/AOP, Hibernate and EJB2. (2) Coached an existing
-development team toward Extreme Programming.
+Boston Capital UI
+Team Lead Developer with Cyrus
+July-Sept 2012
+
+Tested and updated front-end code (originally developed for ie6)
+to work with the latest browsers (ie10, firefox, chrome).
+Converted legacy prototype code to jquery; test driven with
+jasmine.
+
+TelVue
+Team Lead Developer with Cyrus
+Nov 2011-March 2012
+
+Led a team of developers working on an app that allows public access
+channels to collect, schedule and distribute video content through a
+simple web interface. Content creators could log in and upload their
+videos for channel admins to approve and schedule. Behind the scenes
+the app would validate and transcode the content into an appropriate
+format and then stream it directly to the local cable tv providers.
+
+Cyrus Skunkworks
+Software Product Researcher and Developer
+April 2011-Nov 2011
+
+Worked with a small internal team investigating product
+development. We conducted market research and developed rapid
+prototypes of several applications.
+
+Boston Capital
+Software Developer and Coach with Cyrus
+March-Dec 2007, April 2009-April 2011
+
+On the Boston Capital team I worked on a sophisticated asset
+management web app. This application allows for complex data entry
+with validation, document management, asset performance reporting,
+and tax credit calculations. It is developed in java and groovy
+using webwork, picocontainer, hibernate and sql server with tests
+written in selenium, junit, jbehave, mockito and spock. I helped
+build this on-site XP development team from the ground up.
+
+Lehman Brothers
+Junior Developer with Cyrus
+1 day in June 2008
+
+Spent this single day moving code from rcs to svn. The project was
+abruptly cancelled as their position in the housing market began
+to collapse. It was an exciting day.
+
+Kaplan
+Junior Developer and Coach with Cyrus
+Dec 2007-April 2009
+
+Developed a system for managing and optimizing student book
+shipments, a tool for student class registration and a revenue
+recognition tool. These were developed using java, spring/mvc/aop,
+hibernate and ejb2. I also coached an existing development team
+toward Extreme Programming.
 
 Boston Dynamics
 Junior Programmer
 Summer 2006
 
-On the DI-Guy product team I (1) Implemented user interface elements
-in C++ using the Qt UI framework. (2) Fixed software bugs in response
-to end user and internal bug reports. (3) Added i18n support to the
-DI-Guy application in order to create a Japanese version of the
-product.
+Implemented user interface elements in c++ using Qt. Fixed bugs.
 
 Cryptography Group at Columbia U
 Student Researcher
 January 2005-August 2005
-
-Assisted with cryptography research by writing a test implementation
-of an intrusion resilient signature scheme. Studied the IPSec
-cryptographic standard.
 
 Postcrypt Art Gallery
 Director
 September 2005-December 2006
 
 As director of this student art gallery I coordinated logistics,
-promotion, art curation and art show design for about 10 gallery
+publicity, art curation and show design for about 10 gallery
 openings per year.
 
 Education
 Columbia University - New York City
-B.Sc. in Computer Science
-Graduated Spring 2007
+B.Sc. in Computer Science 2007
 
-Technical
+Technical Keywords
 
-    ruby
-    haskell
-    javascript
-    java
-    c++
-    html
-    css
-    rspec
-    minitest
-    mocha
-    jasmine
-    junit
-    mockito
-    mysql
-    sql server
-    postgres
-    rails
-    sinatra
-    snap
-    jquery
-    d3
-    spring/spring mvc
-    hibernate
-    git
-    svn
-    cvs
-    linux
-    bsd
-    windows
-    macosx
+ruby
+haskell
+javascript
+java
+c++
+html
+css
+rspec
+minitest
+mocha
+jasmine
+junit
+mockito
+mysql
+sql server
+postgres
+rails
+sinatra
+snap
+jquery
+d3
+spring/spring mvc
+hibernate
+git
+svn
+cvs
+linux
+bsd
+windows
+macosx
 
 Matt J Raibert — mattraibert@gmail.com — (917) - 328-0228
