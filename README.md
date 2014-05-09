@@ -138,35 +138,4 @@ B.Sc. in Computer Science - 2007
 | git, svn, cvs |
 | linux, bsd, windows, macosx |
 
-ruby
-haskell
-javascript
-java
-c++
-html
-css
-rspec
-minitest
-mocha
-jasmine
-junit
-mockito
-mysql
-sql server
-postgres
-rails
-sinatra
-snap
-jquery
-d3
-spring/spring mvc
-hibernate
-git
-svn
-cvs
-linux
-bsd
-windows
-macosx
-
 Matt J Raibert — mattraibert@gmail.com — (917) - 328-0228
