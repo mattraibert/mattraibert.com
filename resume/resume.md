@@ -1,6 +1,6 @@
 #Matt J Raibert
 ###Software Developer
-mattraibert@gmail.com
+mattraibert@positiondev.com
 (917) 328-0228
 
 | Software | Business | Team |
@@ -138,4 +138,4 @@ B.Sc. in Computer Science - 2007
 | git, svn, cvs |
 | linux, bsd, windows, macosx |
 
-Matt J Raibert — mattraibert@gmail.com — (917) - 328-0228
+Matt J Raibert — mattraibert@positiondev.com — (917) - 328-0228
