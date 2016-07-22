@@ -10,6 +10,17 @@ mattraibert@positiondev.com
 ###Experience
 
 
+* **Position Development**
+  (August 2014-Present)
+
+  _Member/Owner and Developer Lead_
+
+  At Position Development I have worked within the non-profit, media,
+  and publishing spheres, building e-commerce stores, publishing
+  platforms, and data analytics applications, for clients like Verso
+  Books, The Criterion Collection, and the national non-profit Real
+  Food Challenge.
+
 * **Cyrus Innovation**
   (March 2007-January 2014)
 
