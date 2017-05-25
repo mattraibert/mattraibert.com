@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/mattraibert
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mattraibert.com
+  * I am mattraibert (https://keybase.io/mattraibert) on keybase.
+  * I have a public key ASCAlFPTPOWkQYSBFCY0lqvaODjZRzvfaAtCEBi_TIrvuQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120809453d33ce5a441848114263496abda3838d9473bdf680b421018bf4c8aefb90a",
+            "host": "keybase.io",
+            "kid": "0120809453d33ce5a441848114263496abda3838d9473bdf680b421018bf4c8aefb90a",
+            "uid": "f708ffd8dac58b39da4d7903bbcbe119",
+            "username": "mattraibert"
+        },
+        "service": {
+            "hostname": "mattraibert.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.23"
+    },
+    "ctime": 1495709941,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1495709917,
+        "hash": "a6878f5207b1a633bfcff0f78d300dd0bd84c00ab4c4f5aea1ecee6367636e9b987e7347b081b7cd5487e83fcd8013d95a456dbbce13ceeb25c1297107b90bd2",
+        "seqno": 1109986
+    },
+    "prev": "1606803443dfb470584be576a3045e0251a5809510fc2248f4dbc69c74d89f1c",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggJRT0zzlpEGEgRQmNJar2jg42Uc732gLQhAYv0yK77kKp3BheWxvYWTFAvp7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODA5NDUzZDMzY2U1YTQ0MTg0ODExNDI2MzQ5NmFiZGEzODM4ZDk0NzNiZGY2ODBiNDIxMDE4YmY0YzhhZWZiOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODA5NDUzZDMzY2U1YTQ0MTg0ODExNDI2MzQ5NmFiZGEzODM4ZDk0NzNiZGY2ODBiNDIxMDE4YmY0YzhhZWZiOTBhIiwidWlkIjoiZjcwOGZmZDhkYWM1OGIzOWRhNGQ3OTAzYmJjYmUxMTkiLCJ1c2VybmFtZSI6Im1hdHRyYWliZXJ0In0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJtYXR0cmFpYmVydC5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIzIn0sImN0aW1lIjoxNDk1NzA5OTQxLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTU3MDk5MTcsImhhc2giOiJhNjg3OGY1MjA3YjFhNjMzYmZjZmYwZjc4ZDMwMGRkMGJkODRjMDBhYjRjNGY1YWVhMWVjZWU2MzY3NjM2ZTliOTg3ZTczNDdiMDgxYjdjZDU0ODdlODNmY2Q4MDEzZDk1YTQ1NmRiYmNlMTNjZWViMjVjMTI5NzEwN2I5MGJkMiIsInNlcW5vIjoxMTA5OTg2fSwicHJldiI6IjE2MDY4MDM0NDNkZmI0NzA1ODRiZTU3NmEzMDQ1ZTAyNTFhNTgwOTUxMGZjMjI0OGY0ZGJjNjljNzRkODlmMWMiLCJzZXFubyI6NiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEAG9kgnDy0OcDYw2ehfQMRHmjYd8Eo/omD8+8I4Yi3brYuiqN0GCA25MBDscTxhsLhQT8SkhHUnnmchLOKZYGgJqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgnLJAEkxn9cFKzjiLk18Kfhc2aX+bZP2OjBcQtdGCAxKjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mattraibert
+
+==================================================================
